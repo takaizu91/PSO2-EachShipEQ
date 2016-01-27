@@ -7,3 +7,6 @@ PSO2-EachShipEQ is an API based EQ alert that will alert player based on the shi
 This is still in drafting so there will be no actual code running or push as of now.
 
 Stay tuned
+
+** Update **
+API are very unstable currently so no push will be made yet
